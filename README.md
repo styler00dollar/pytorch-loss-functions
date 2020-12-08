@@ -24,7 +24,6 @@ Currently usable without major problems and with example usage in ```example.py`
 May be added in the future in ```example.py```, but already in [```loss.py```](https://github.com/victorca25/BasicSR/tree/master/codes/models/modules):
 - Charbonnier Loss (L1)
 - GAN Loss
-- Gradient Penalty Loss
 - Gradient Loss
 - Masked L1 Loss
 - Multiscale Pixel Loss
