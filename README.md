@@ -21,7 +21,7 @@ Currently usable without major problems and with example usage in ```example.py`
 - PerceptualLoss
 - Contextual_Loss [[1](https://arxiv.org/abs/1803.02077) [2](https://github.com/roimehrez/contextualLoss) [3](https://github.com/S-aiueo32/contextual_loss_pytorch) [4](https://github.com/z-bingo/Contextual-Loss-PyTorch)]
 
-May be added in the future in ```example.py```, but is already in [```loss.py```](https://github.com/victorca25/BasicSR):
+May be added in the future in ```example.py```, but already in [```loss.py```](https://github.com/victorca25/BasicSR/tree/master/codes/models/modules):
 - Charbonnier Loss (L1)
 - GANLoss
 - GradientPenaltyLoss
