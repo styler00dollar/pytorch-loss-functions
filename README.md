@@ -10,14 +10,14 @@ Currently usable without major problems and with example usage in ```example.py`
 - HFEN Loss (High Frequency Error Norm) [[1](https://ieeexplore.ieee.org/document/5617283) [2](https://www.hindawi.com/journals/cmmm/2016/7571934/)]
 - Elastic Loss
 - Relative L1
-- L1CosineSim [[1](https://github.com/dmarnerides/hdr-expandnet/blob/master/train.py) [2](https://arxiv.org/pdf/1803.02266.pdf)]
-- ClipL1 [[1](https://github.com/HolmesShuan/AIM2020-Real-Super-Resolution/)]
-- FFTloss (Frequency loss) [[1](https://github.com/lj1995-computer-vision/Trident-Dehazing-Network/blob/master/loss/fft.py)]
-- OFLoss (Overflow loss) [[1](https://github.com/lj1995-computer-vision/Trident-Dehazing-Network/blob/master/loss/brelu.py)]
-- GPLoss (Gradient Profile Loss) [[1](https://github.com/ssarfraz/SPL/blob/master/SPL_Loss/)]
-- CPLoss (Color Profile Loss)
-- StyleLoss [[1](https://github.com/Yukariin/DFNet/blob/master/loss.py) [2](https://github.com/pytorch/examples/blob/master/fast_neural_style/neural_style/utils.py)]
-- TVLoss (Total Variation Loss)
+- L1 (CosineSim) [[1](https://github.com/dmarnerides/hdr-expandnet/blob/master/train.py) [2](https://arxiv.org/pdf/1803.02266.pdf)]
+- Clip L1 [[1](https://github.com/HolmesShuan/AIM2020-Real-Super-Resolution/)]
+- FFT Loss (Frequency loss) [[1](https://github.com/lj1995-computer-vision/Trident-Dehazing-Network/blob/master/loss/fft.py)]
+- OF Loss (Overflow loss) [[1](https://github.com/lj1995-computer-vision/Trident-Dehazing-Network/blob/master/loss/brelu.py)]
+- GP Loss (Gradient Profile Loss) [[1](https://github.com/ssarfraz/SPL/blob/master/SPL_Loss/)]
+- CP Loss (Color Profile Loss)
+- Style Loss [[1](https://github.com/Yukariin/DFNet/blob/master/loss.py) [2](https://github.com/pytorch/examples/blob/master/fast_neural_style/neural_style/utils.py)]
+- TV Loss (Total Variation Loss)
 - Perceptual Loss (LPIPS)
 - Contextual Loss [[1](https://arxiv.org/abs/1803.02077) [2](https://github.com/roimehrez/contextualLoss) [3](https://github.com/S-aiueo32/contextual_loss_pytorch) [4](https://github.com/z-bingo/Contextual-Loss-PyTorch)]
 
